@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hello-world.iml" filepath="$PROJECT_DIR$/.idea/modules/hello-world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/prog-func-scala-01.iml" filepath="$PROJECT_DIR$/.idea/modules/prog-func-scala-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/prog-func-scala-01-build.iml" filepath="$PROJECT_DIR$/.idea/modules/prog-func-scala-01-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample01/sample01.iml" filepath="$PROJECT_DIR$/sample01/sample01.iml" />
     </modules>
   </component>
